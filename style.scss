@@ -4,6 +4,18 @@
 //
 // IMPORTS
 //
+@font-face {
+  font-family: 'Estedad-medium';
+  src:
+    url('fonts/Estedad-Medium.ttf') format('truetype'),
+    url('fonts/Estedad-Medium.woff') format('woff');
+}
+@font-face {
+  font-family: 'Estedad-bold';
+  src:
+    url('/fonts/Estedad-Bold.ttf') format('truetype'),
+    url('/fonts/Estedad-Bold.woff') format('woff');
+}
 
 @import "reset";
 @import "variables";
@@ -47,7 +59,8 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
   font-size: 30px;
   a {
-    color: inherit;
+    font-family: Estedad-bold;
+    color: #e76a00;
   }
 }
 
@@ -202,7 +215,7 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: $gray;
+  color: #8700dc;
   font-size: 16px;
 
   @include mobile {
@@ -244,6 +257,8 @@ nav {
 .posts > .post {
   padding-bottom: 2em;
   border-bottom: 1px solid $lightGray;
+  direction: rtl;
+  font-family: Estedad-Medium;
 }
 
 .posts > .post:last-child {
