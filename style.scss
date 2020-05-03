@@ -56,7 +56,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: $helveticaNeue;
+    font-family: Estedad-bold;
     color: $darkerGray;
     font-weight: bold;
 
@@ -240,7 +240,7 @@ img {
 nav {
     float: right;
     margin-top: 23px; // @TODO: Vertically middle align
-font-family: $helveticaNeue;
+    font-family: Estedad-bold;
     font-size: 18px;
 
 @include mobile {
