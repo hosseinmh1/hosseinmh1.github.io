@@ -14,8 +14,8 @@
 @font-face {
     font-family: 'Estedad-light';
     src:
-            url('fonts/Estedad-Light.ttf') format('truetype'),
-            url('fonts/Estedad-Light.woff') format('woff');
+            url('fonts/Estedad-light.ttf') format('truetype'),
+            url('fonts/Estedad-light.woff') format('woff');
 }
 
 @font-face {
@@ -43,7 +43,7 @@ body {
     color: $darkGray;
 }
 
-.cntnr {
+.container {
     margin: 0 auto;
     max-width: 740px;
     padding: 0 10px;
@@ -94,7 +94,6 @@ h4 {
 p {
     margin: 15px 0;
     line-height: 21pt;
-    font-family: Estedad-light;
 }
 
 a {
