@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+چیزی درباره من
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+بازم یه چیزی درباره من
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[mohsenihossein@protonmail.com](mailto:mohsenihossein@protonmail.com)
