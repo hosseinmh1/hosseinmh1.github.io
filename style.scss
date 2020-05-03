@@ -56,10 +56,9 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    direction: rtl;
     font-family: Estedad-bold;
-    color: $darkerGray;
-    font-weight: bold;
+    direction: rtl;
+    color: #e76a00;
 
     line-height: 1.7;
     margin: 1em 0 15px;
