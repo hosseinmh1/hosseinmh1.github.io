@@ -1,5 +1,6 @@
 ---
 ---
+
 //
 // IMPORTS
 //
@@ -9,6 +10,14 @@
     url('fonts/Estedad-Medium.ttf') format('truetype'),
     url('fonts/Estedad-Medium.woff') format('woff');
 }
+
+@font-face {
+  font-family: 'Estedad-light';
+  src:
+    url('fonts/Estedad-light.ttf') format('truetype'),
+    url('fonts/Estedad-light.woff') format('woff');
+}
+
 @font-face {
   font-family: 'Estedad-bold';
   src:
@@ -39,6 +48,11 @@ body {
   max-width: 740px;
   padding: 0 10px;
   width: 100%;
+}
+
+.entry{
+    direction: rtl;
+	font-family: Estedad-light;
 }
 
 h1, h2, h3, h4, h5, h6 {
