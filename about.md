@@ -3,13 +3,14 @@ layout: page
 title: About
 permalink: /about/
 ---
+### درباره من
 
 چیزی درباره من
 
-### More Information
+### اطلاعات بیشتر
 
 بازم یه چیزی درباره من
 
-### Contact me
+### تماس با من
 
 [mohsenihossein@protonmail.com](mailto:mohsenihossein@protonmail.com)
