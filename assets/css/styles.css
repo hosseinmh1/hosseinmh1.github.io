@@ -126,6 +126,8 @@ iframe {
 }
 .header .profile-image {
   margin-right: 30px;
+  width: 170px;
+  border-radius: 100%;
 }
 .header .profile-content .name {
   color: #49515a;
@@ -175,6 +177,7 @@ iframe {
 .section .section-inner {
   background: #fff;
   padding: 30px;
+  direction: rtl;
 }
 .section .heading {
   margin-top: 0;
