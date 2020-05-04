@@ -175,6 +175,8 @@ iframe {
 .section .section-inner {
   background: #fff;
   padding: 30px;
+  margin-top: 17px;
+  direction: rtl;
 }
 .section .heading {
   margin-top: 0;
