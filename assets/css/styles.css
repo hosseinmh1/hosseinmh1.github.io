@@ -1,11 +1,9 @@
-/*   
- * Template Name: Developer - Responsive Website Template for Developers
- * Version: 1.5
- * Author: Xiaoying Riley
- * Twitter: @3rdwave_themes
- * License: Creative Commons Attribution 3.0 License
- * Website: http://themes.3rdwavemedia.com/
-*/
+@font-face {
+  font-family: 'Estedad-medium';
+  src:
+          url('../fonts/Estedad-Medium.ttf') format('truetype'),
+          url('../fonts/Estedad-Medium.woff') format('woff');
+}
 /* ======= Base ======= */
 body {
   font-family: 'Lato', arial, sans-serif;
@@ -170,6 +168,9 @@ iframe {
 .sections-wrapper {
   padding-top: 60px;
   padding-bottom: 60px;
+  font-family: Estedad-Medium;
+  line-height: 171%;
+
 }
 .section {
   margin-bottom: 30px;
