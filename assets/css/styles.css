@@ -6,7 +6,7 @@
 }
 /* ======= Base ======= */
 body {
-  font-family: 'Lato', arial, sans-serif;
+  font-family: 'Estedad-medium', arial, sans-serif;
   color: #434343;
   background: #DAE3E7;
   font-size: 16px;
@@ -168,7 +168,7 @@ iframe {
 .sections-wrapper {
   padding-top: 60px;
   padding-bottom: 60px;
-  font-family: Estedad-Medium;
+  font-family: 'Estedad-medium';
   line-height: 171%;
 
 }
