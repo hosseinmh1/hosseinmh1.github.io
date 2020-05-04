@@ -2,16 +2,17 @@
 layout: default
 ---
 
-<article class="post">
-  <h1>{{ page.title }}</h1>
-
-  <div class="entry">
-    {{ content }}
-  </div>
-
-  <div class="date">
-    Written on {{ page.date | date: "%B %e, %Y" }}
-  </div>
-
-  {% include disqus.html %}
-</article>
+<section class="experience section">
+  <div class="section-inner">
+    <h2 class="heading">{{ page.title }}</h2>
+    <div class="content">
+      <div class="item">
+        <div>{{ content }}</div>
+        <div class="date">
+          Written on {{ page.date | date: "%B %e, %Y" }}
+        </div>
+        {% include disqus.html %}
+      </div><!--//item-->
+    </div><!--//content-->
+  </div><!--//section-inner-->
+</section><!--//section-->

@@ -4,16 +4,20 @@ layout: default
 
 <div class="posts">
   {% for post in site.posts %}
-    <article class="post">
-
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
-
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">ادامه مطلب</a>
-    </article>
+  <section class="experience section">
+    <div class="section-inner">
+      <h2 class="heading"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+      <div class="content">
+        <div class="item">
+          <div>{{ post.excerpt }}</div>
+          <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+          {% include disqus.html %}
+        </div><!--//item-->
+      </div><!--//content-->
+    </div><!--//section-inner-->
+  </section><!--//section-->
   {% endfor %}
 </div>
+
+
 
