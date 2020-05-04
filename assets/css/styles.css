@@ -4,9 +4,15 @@
           url('../fonts/Estedad-Medium.ttf') format('truetype'),
           url('../fonts/Estedad-Medium.woff') format('woff');
 }
+@font-face {
+  font-family: 'Estedad-Bold';
+  src:
+          url('../fonts/Estedad-Bold.ttf') format('truetype'),
+          url('../fonts/Estedad-Bold.woff') format('woff');
+}
 /* ======= Base ======= */
 body {
-  font-family: 'Lato', arial, sans-serif;
+  font-family: 'Estedad-medium', arial, sans-serif;
   color: #434343;
   background: #DAE3E7;
   font-size: 16px;
@@ -19,7 +25,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Estedad-Bold', sans-serif;
   font-weight: 700;
   color: #778492;
 }
@@ -168,7 +174,7 @@ iframe {
 .sections-wrapper {
   padding-top: 60px;
   padding-bottom: 60px;
-  font-family: Estedad-Medium;
+  font-family: 'Estedad-medium';
   line-height: 171%;
 
 }
