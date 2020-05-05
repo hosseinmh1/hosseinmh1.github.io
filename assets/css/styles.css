@@ -404,8 +404,11 @@ iframe {
 .testimonials .item .quote {
     color: #666;
     font-size: 16px;
-    border-left-color: #9fdeb7;
+    /* border-right-color: #9fdeb7; */
     margin-bottom: 15px;
+    border-right: 5px solid #eee;
+    border-left: none;
+    border-right-color: #9fdeb7;
 }
 .testimonials .item .quote .fa {
     color: #79d19a;
