@@ -1,7 +1,42 @@
 ---
 layout: default
 ---
+<style>/*<![CDATA[*/
+.right {
+    background-color: #DAE3E7;
+    /* width: 150px; */
+    line-height: 25px;
+    font-size: 12px;
+    color: #ffffff;
+}
 
+.left{
+    display: inline-flex;
+}
+.reset{
+    margin-right: 7px;
+}
+input,select,option,textarea{
+    font-family: Estedad-Medium;
+    border-radius: 5px;
+    border: solid 1px;
+    border-color: #DAE3E7;
+
+
+}
+.btn{
+    border: none;
+}
+.btn:hover{
+    box-shadow: 1px 2px 10px #888;
+}
+.main{
+    direction: rtl;
+}
+.texts{
+    color: #000000;
+}
+/*]]>*/</style>
 <section class="experience section">
   <div class="section-inner">
     <h2 class="heading">{{ page.title }}</h2>
@@ -12,6 +47,50 @@ layout: default
           Written on {{ page.date | date: "%B %e, %Y" }}
         </div>
         {% include disqus.html %}
+      </div><!--//item-->
+    </div><!--//content-->
+  </div><!--//section-inner-->
+</section><!--//section-->
+
+
+<section class="experience section">
+  <div class="section-inner">
+    <h2 class="heading">{{ page.title }}</h2>
+    <div class="content">
+      <div class="item">
+        <form method="post" class="main" action="http://codex.20script.ir/contact_us.php">
+        <table width="400px" align="center" class="tbl">
+            <tbody><tr>
+                <td class="right texts">نام و نام خانوادگی :</td>
+                <td class="left"><input type="text" name="Name" /></td>
+            </tr>
+            <tr>
+                <td class="right texts">ایمیل: </td>
+                <td class="left"><input type="text" name="E-Mail" /></td>
+            </tr>
+            <tr>
+
+            </tr>
+
+            <tr>
+            </tr>
+            <tr>
+
+
+            </tr>
+            <tr>
+                <td valign="top" class="right texts" style="width: 150px;">پیام :</td>
+                <td class="left">
+                    <textarea name="Message" style="width: 254px; height: 117px;"></textarea></td>
+            </tr>
+            <tr>
+
+                <td class="left" style="margin-top: 10px;"><input type="submit" class="btn" value="ارسال فرم" /><input type="reset" class="btn" style="margin-right: 7px;" value="نگارش از نو" /></td>
+            </tr><tr><td><input type="hidden" name="To" value="hos1999moh78@gmail.com" /></td><td>&nbsp;</td></tr>
+            <tr>
+
+            </tr></tbody></table>
+    </form>
       </div><!--//item-->
     </div><!--//content-->
   </div><!--//section-inner-->
