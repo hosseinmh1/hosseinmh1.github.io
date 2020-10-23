@@ -1,30 +1,9 @@
 ---
 layout: post
-title: موسیقی و کدنویسی!
+title:Netflix Dark OST - Guitar Cover
 ---
 
-تو این نوشته درباره تجربه خودم درباره گوش کردن به آهنگ درکنار کدنویسی میگم...
-
+به عنوان اولین تجربه تنظیم آهنگ، تیتراژ ابتدایی سریال دارک رو ساختم، امیدوارم بپسندید. :)
 ![_config.yml](https://files.virgool.io/upload/users/45903/posts/vajdctldlkju/liv9e8c1kwso.png)
 
-احتمالا شما هم مثل من گاهی اوقات که دارین کدنویسی میکنین، کنارش هدفون یا هندزفری تون توی گوشتونه و همزمان به آهنگ گوش میدین :)
-
-خب من که اینجوریم و با این کار از کد زدم خیلی بیشتر لذت میبرم.
-
-اما بعد از یه مدتی دیدم که یه سری مشکلات وجود داره!
-
-اگه آهنگی از خواننده مورد علاقم پخش بشه یا آهنگی باشه که متنش رو بلدم شروع میکنم به خوندن و کلا حواسم از کدزدن پرت میشه! یا باعث میشه یه جاهایی از کد خطا داشته باشم و کل برنامم خراب بشه (-___-)
-
-یا مثلا اگه آهنگی که پخش میشه شلوغ باشه (مثل آهنگای با ریتم شاد و یا آهنگایی تو سبک راک و...) باز هم حواسمو پرت میکنه!
-
-یکی از راهکار هایی که به ذهنم رسید، آهنگ های بی کلام بودن. که البته تاثیرش خوب بود، اما یه نکاتی بود که بازهم حواسمو پرت میکرد.
-
-اولیش این بود که وقتی آهنگ های بیکلام سریال ها و فیلم ها رو میشنیدم باز هم تمرکزم از دست میرفت و برای دقایق زیادی به داستان اون فیلمها فکر میکردم.
-
-مثلا همین دیروز آهنگه که پخش شد وسط کلی پرانتز زدن یهو یادم افتاد که خب لامصبا چرا انقد بد تموم کردین سریالو؟؟ هشت فصل بیکار بودیم نشستیم دیدیم؟( اشاره به سریال خاصی ندارم. دی: ) و بعدش دیدم که یادم رفته کدوم پرانتز برای کجاست! :)
-
-و مساله دوم این بود که ورژن های بیکلام آهنگ هایی که دوست داشتم گرفتم و اونا رو می شنیدم. بعد دیدم که فایده نداره انگیزم واسه همخوانی با آهنگ بیشتر بودش (ای بابا!)
-
-خب حالا راهکارم چی بود؟ نه میتونستم موقع کد زدن آهنگ گوش ندم و نه میشد موقع گوش دادن تمرکز کرد.
-
-یه راهکار خوب وجود داره، یه سری پلی لیست (هم ردیف فارسی پلی لیست چی میشه؟؟؟؟) موجوده با اسم های Soundtrack for Study یا Study Vibes یا چیزایی شبیه اینا (تو spotify میتونین این پلی لیست هارو پیدا کنین) این پلی لیست ها هم ریتم ملایمی دارن و هم بی کلام هستن. برای مطالعه، کد زدن و... خیلی مناسب هستن. خودم که از گوش دادنشون لذت میبرم.
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/903432493&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/hosseinhimself" title="Hossein M" target="_blank" style="color: #cccccc; text-decoration: none;">Hossein M</a> · <a href="https://soundcloud.com/hosseinhimself/netflixdark-guitarcover" title="Netflix Dark Guitar Cover" target="_blank" style="color: #cccccc; text-decoration: none;">Netflix Dark Guitar Cover</a></div>
